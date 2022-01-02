@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.95630505.js",
-    "static/js/787.9d5eb079.chunk.js": "/static/js/787.9d5eb079.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.95630505.js.map": "/static/js/main.95630505.js.map",
-    "787.9d5eb079.chunk.js.map": "/static/js/787.9d5eb079.chunk.js.map"
+    "main.css": "/ProShopMaster/static/css/main.073c9b0a.css",
+    "main.js": "/ProShopMaster/static/js/main.cbea1a61.js",
+    "static/js/787.9d5eb079.chunk.js": "/ProShopMaster/static/js/787.9d5eb079.chunk.js",
+    "static/media/logo.svg": "/ProShopMaster/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ProShopMaster/index.html",
+    "main.073c9b0a.css.map": "/ProShopMaster/static/css/main.073c9b0a.css.map",
+    "main.cbea1a61.js.map": "/ProShopMaster/static/js/main.cbea1a61.js.map",
+    "787.9d5eb079.chunk.js.map": "/ProShopMaster/static/js/787.9d5eb079.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.95630505.js"
+    "static/js/main.cbea1a61.js"
   ]
 }
