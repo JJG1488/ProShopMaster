@@ -27,10 +27,10 @@
   },
   "scripts": {
     "client": "npm start --prefix client",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy": "cd client && npm run build",
+    "deploy": "cd client && gh-pages -d build",
     "start": "react-scripts start && node backend/server",
-    "build": "react-scripts build",
+    "build": "cd client && npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "server": "nodemon backend/server",

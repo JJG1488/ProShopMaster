@@ -3,7 +3,7 @@
   "proxy": "http://localhost:5000/",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jjg1488.github.io/frontend/",
+  "homepage": "https://jjg1488.github.io/ProShopMaster/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
