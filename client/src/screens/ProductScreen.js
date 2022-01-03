@@ -22,7 +22,7 @@ export const ProductScreen = () => {
 
     return (
         <>
-            <Link className='btn btn-dark my-3' to='/frontend/'>Go Back</Link>
+            <Link className='btn btn-dark my-3' to='/'>Go Back</Link>
             <Row>
                 <Col md={6}>
                     <Image src={product.image} alt={product.name} fluid></Image>
