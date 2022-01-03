@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ProShopMaster/static/css/main.598234dd.css",
-    "main.js": "/ProShopMaster/static/js/main.31d5c947.js",
+    "main.js": "/ProShopMaster/static/js/main.5dc423dd.js",
     "static/js/787.9d5eb079.chunk.js": "/ProShopMaster/static/js/787.9d5eb079.chunk.js",
     "index.html": "/ProShopMaster/index.html",
     "main.598234dd.css.map": "/ProShopMaster/static/css/main.598234dd.css.map",
-    "main.31d5c947.js.map": "/ProShopMaster/static/js/main.31d5c947.js.map",
+    "main.5dc423dd.js.map": "/ProShopMaster/static/js/main.5dc423dd.js.map",
     "787.9d5eb079.chunk.js.map": "/ProShopMaster/static/js/787.9d5eb079.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.598234dd.css",
-    "static/js/main.31d5c947.js"
+    "static/js/main.5dc423dd.js"
   ]
 }
