@@ -17,7 +17,7 @@ connectDB()
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(express.static("frontend/public"));
+app.use(express.static("client/public"));
 
 // Middleware: used to perform some action on the request and response object.
 // Be sure to call the next() method so that the application can move on to the next piece of middleware, if any
