@@ -1,5 +1,5 @@
 {
-  "name": "proshop",
+  "name": "proshopmaster",
   "proxy": "http://localhost:5000",
   "version": "1.0.0",
   "description": "Ecommerce store",
